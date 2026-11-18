@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "office-tools",
+  "version": "0.1.0",
+  "description": "Local, free DOCX, XLSX, PPTX, PDF and CSV I/O with a JSON style and template system.",
+  "license": "MIT",
+  "repository": "https://github.com/OwenSutka/OH-OfficeTools"
+}
